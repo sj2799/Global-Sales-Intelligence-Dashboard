@@ -4,7 +4,7 @@
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-An interactive Power BI dashboard built as part of a structured learning curriculum. The report demonstrates dynamic measure switching (Number vs. Percentage) using a slicer, country-level sales analysis, an alphabetically sorted bar chart, and a context-aware dynamic text box.
+An interactive Power BI dashboard analysing global internet sales across 6 countries. The report demonstrates dynamic measure switching (Number vs. Percentage) using a slicer, country-level sales analysis, an alphabetically sorted bar chart, and a context-aware dynamic text box.
 
 ## 🎯 Project Goal
 Develop an interactive Power BI dashboard with a dynamic bar chart, slicer-driven measure toggle (Number/Percentage), alphabetically sorted country visuals, and context-sensitive dynamic text based on user selections.
